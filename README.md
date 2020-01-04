@@ -36,7 +36,9 @@
  k4aviewer
 ```
 ## Test Python code
-cd $AZURE_HOME
-cd Azure-Kinect-Sensor-SDK/smc_examples
-python3 capture.py
+```bash
+ cd $AZURE_HOME
+ cd Azure-Kinect-Sensor-SDK/smc_examples
+ python3 capture.py
+```
 
