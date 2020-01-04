@@ -1,0 +1,1 @@
+/usr/bin/cc -O2 -g -DNDEBUG   -Wl,--as-needed -Wl,--build-id CMakeFiles/streaming_samples.dir/main.c.o  -o ../../bin/streaming_samples -Wl,-rpath,"\$ORIGIN" ../../bin/libk4a.so.1.3.0 

@@ -1,0 +1,1 @@
+/usr/bin/cc -O2 -g -DNDEBUG   -Wl,--as-needed -Wl,--build-id CMakeFiles/k4arecord_custom_track.dir/main.c.o  -o ../../bin/k4arecord_custom_track -Wl,-rpath,"\$ORIGIN" ../../bin/libk4a.so.1.3.0 ../../bin/libk4arecord.so.1.3.0 

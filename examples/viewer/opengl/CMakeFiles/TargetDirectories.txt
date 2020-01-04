@@ -1,0 +1,3 @@
+/home/sung/Azure-Kinect-Sensor-SDK/examples/viewer/opengl/CMakeFiles/rebuild_cache.dir
+/home/sung/Azure-Kinect-Sensor-SDK/examples/viewer/opengl/CMakeFiles/edit_cache.dir
+/home/sung/Azure-Kinect-Sensor-SDK/examples/viewer/opengl/CMakeFiles/viewer_opengl.dir
