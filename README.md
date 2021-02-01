@@ -1,4 +1,5 @@
 ## Install Azure Kinect SDK for Ubuntu 18.04 (Bionic)
+이 repository는 Azure Kinect SDK를 python 코드로 사용하기위해 shared object 파일을 생성하는 법을 포함하고 있습니다.
 ```bash
  export AZURE_HOME=$PWD
  sudo apt-get install curl
