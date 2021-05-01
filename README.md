@@ -9,7 +9,7 @@
  sudo apt-add-repository https://packages.microsoft.com/ubuntu/18.04/prod
  sudo apt-get update
  sudo apt install k4a-tools
- sudo apt install libk4a1.3-dev
+ sudo apt install libk4a1.4-dev
  git clone https://github.com/ninja-build/ninja.git
  cd ninja
  sudo apt-get install -y re2c 
