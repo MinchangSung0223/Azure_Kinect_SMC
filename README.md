@@ -12,6 +12,7 @@
  sudo apt install libk4a1.3-dev
  git clone https://github.com/ninja-build/ninja.git
  cd ninja
+ sudo apt-get install -y re2c 
  ./configure
  ./bootstrap
  apt-get install ninja-build
