@@ -34,7 +34,9 @@
  ninja
  ninja install
  cd bin
+ cp /usr/lib/x86_64-linux-gnu/libk4a1.4/libdepthengine.so.2.0 . 
  cp libk4a* /usr/lib/
+ cp libk4a* /usr/local/lib
  k4aviewer
 ```
 ## Test Python code
